@@ -92,13 +92,13 @@ Exemplo: correct minor typos in code
 | Comando Git | Resultado |
 | --- | --- |
 | git commit -m ":tada: Initial commit" | 🎉 Initial commit |
-| git commit -m ":books: docs: Update README" | 📚 Update README documentation |
-| git commit -m ":bug: fix: Fix infinite loop on line 50" | 🐛 Fix infinite loop on line 50 |
-| git commit -m ":sparkles: feat: Add login page" | ✨ Add login page feature |
-| git commit -m ":bricks: ci: Modify Dockerfile" | 🧱 Modify Dockerfile for CI |
-| git commit -m ":recycle: refactor: Refactor to arrow functions" | ♻️ Refactor to arrow functions |
-| git commit -m ":zap: perf: Improve response time" | ⚡ Improve performance and response time |
-| git commit -m ":boom: fix: Revert inefficient changes" | 💥 Revert inefficient changes |
-| git commit -m ":lipstick: feat: Style form with CSS" | 💄 Add feature to style form with CSS |
-| git commit -m ":test_tube: test: Create new test" | 🧪 Create new test |
-| git commit -m ":bulb: docs: Add comments to LoremIpsum( ) function" | 💡 Add comments to LoremIpsum( ) function documentation |
+| git commit -m ":books: docs: Update README" | 📚 Update: README documentation |
+| git commit -m ":bug: fix: Fix infinite loop on line 50" | 🐛 Fix: infinite loop on line 50 |
+| git commit -m ":sparkles: feat: Add login page" | ✨ Add: login page feature |
+| git commit -m ":bricks: ci: Modify Dockerfile" | 🧱 Modify: Dockerfile for CI |
+| git commit -m ":recycle: refactor: Refactor to arrow functions" | ♻️ Refactor: to arrow functions |
+| git commit -m ":zap: perf: Improve response time" | ⚡ Improve: performance and response time |
+| git commit -m ":boom: fix: Revert inefficient changes" | 💥 Revert: inefficient changes |
+| git commit -m ":lipstick: feat: Style form with CSS" | 💄 Add: feature to style form with CSS |
+| git commit -m ":test_tube: test: Create new test" | 🧪 Create: new test |
+| git commit -m ":bulb: docs: Add comments to LoremIpsum( ) function" | 💡 Add: comments to LoremIpsum( ) function documentation |
